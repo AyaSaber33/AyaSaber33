@@ -25,6 +25,7 @@ I enjoy turning ideas into real-world products and continuously improving my ski
 ### 🗄️ Databases
 - MySQL
 - SQL Server
+- SQL lite
 
 ### 🧰 Tools
 - Git & GitHub
@@ -36,6 +37,12 @@ I enjoy turning ideas into real-world products and continuously improving my ski
 - Data Warehousing Concepts (ETL, Star Schema)
 - SSIS (ETL Pipelines)
 - Power BI (Dashboards & Visualization)
+  
+  ### 🤖 Machine Learning & Data Mining (Basics)
+- Supervised & Unsupervised Learning concepts
+- Data preprocessing and feature handling
+- Basic algorithms (e.g., classification, clustering)
+- Python for data analysis
 
 ### 🧠 Fundamentals
 - Data Structures & Algorithms
