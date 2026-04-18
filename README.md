@@ -51,11 +51,6 @@ I enjoy turning ideas into real-world products and continuously improving my ski
 
 ---
 
-## 📈 GitHub Stats
-![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
----
-
 ## 📫 Connect With Me
 - 📧 Email: aya.saber66666@email.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/aya-saber-fawzy  
